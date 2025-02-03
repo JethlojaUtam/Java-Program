@@ -11,7 +11,7 @@ public class Program6 {
         no=sc.nextInt();
         for(i=1;i<=10;i++)
         {
-            table=no*1;
+            table=no*i;
             System.out.println("Table:"+no+"x"+i+"="+table);
         }
     }
@@ -20,14 +20,14 @@ public class Program6 {
 //run:
 //Enter Number:10
 //Table:10x1=10
-//Table:10x2=10
-//Table:10x3=10
-//Table:10x4=10
-//Table:10x5=10
-//Table:10x6=10
-//Table:10x7=10
-//Table:10x8=10
-//Table:10x9=10
-//Table:10x10=10
+//Table:10x2=20
+//Table:10x3=30
+//Table:10x4=40
+//Table:10x5=50
+//Table:10x6=60
+//Table:10x7=70
+//Table:10x8=80
+//Table:10x9=90
+//Table:10x10=100
 
 
