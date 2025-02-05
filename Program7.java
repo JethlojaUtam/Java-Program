@@ -46,7 +46,7 @@ public class Program7 {
                 System.out.println("Exit");
                 break;
                 default:
-                System.out.println("Invalid choice. Please try again!!!");
+                System.out.println("Invalid choice. Please try again.");
         }
     }
 }
@@ -66,5 +66,3 @@ public class Program7 {
 //Enter your choice: 3
 //Exit
 
-//Enter your choice: 4
-//Invalid choice. Please try again!!!
