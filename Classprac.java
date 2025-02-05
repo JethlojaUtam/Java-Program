@@ -64,11 +64,11 @@ public class Classprac
                 System.out.print("nine ");
             }
         }
-        
-
-
         // Close the scanner
         sc.close();
     }
 }
 
+//run:
+//Enter a number: 1303
+//one three zero three
