@@ -64,8 +64,6 @@ public class Classprac
                 System.out.print("nine ");
             }
         }
-        // Close the scanner
-        sc.close();
     }
 }
 
